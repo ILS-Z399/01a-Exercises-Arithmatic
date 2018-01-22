@@ -1,4 +1,4 @@
-# 01a-Exercises-Arithmatic
+# 01a-Exercises-Arithmetic
 
 Let's start writing some Python code! This is the first set of exercises for ILS-Z399. To complete these exercises:
 
