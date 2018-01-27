@@ -17,7 +17,7 @@ You would enter the statement 10 + 15 into IDLE. After hitting enter, IDLE retur
 
 Some of the exercises require you to interpret what is going on. Feel free to explore other variations in IDLE until you can come up with a reasonable explanation. 
 
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the curren year and your name), and edit this file to describe what your code does.
+As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name), and edit this file to describe what your code does.
 
 ---
 
